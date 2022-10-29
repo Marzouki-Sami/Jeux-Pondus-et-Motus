@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1607525172 source:c:\users\asus\desktop\projet finale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1615664001 source:c:\users\asus\desktop\all\projet asd 1\projet finale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1615925962 source:c:\users\asus\desktop\others\online education i\asd\projet asd 1\projet finale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
